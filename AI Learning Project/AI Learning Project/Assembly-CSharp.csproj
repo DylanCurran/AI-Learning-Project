@@ -60,16 +60,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_scripts\CollectableCount.cs" />
+    <Compile Include="Assets\_scripts\CollectableWin.cs" />
     <Compile Include="Assets\_scripts\FindPlayer.cs" />
+    <Compile Include="Assets\_scripts\PickupCollectable.cs" />
     <Compile Include="Assets\_scripts\PlayerController.cs" />
-    <Compile Include="Assets\CollectableCount.cs" />
-    <Compile Include="Assets\CollectableWin.cs" />
+    <Compile Include="Assets\_scripts\SetCameraPosition.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
-    <Compile Include="Assets\PickupCollectable.cs" />
-    <Compile Include="Assets\SetCameraPosition.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Gamer/Desktop/AI-Learning-Project/AI Learning Project/AI Learning Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
